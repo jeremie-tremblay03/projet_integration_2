@@ -13,6 +13,9 @@ Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire not
 Pour utiliser notre projet, vous devrez installer
 - [Unity](https://unity.com/) - 2020.3.30f1 LTS préférablement
 - [C#]() - s'installe avec unity
+- Visual studio
+  - [Visual studio code]()
+  - [Visual studio]()
 Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet complet]()
 ## Utilisation
