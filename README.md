@@ -12,7 +12,7 @@ Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire not
 ### Prérequis
 Pour utiliser notre projet, vous devrez installer
 - [Unity](https://unity.com/) - 2020.3.30f1 LTS préférablement
-- [C#]() - s'installe avec unity
+- [C#]() - S'installe avec unity
 - Un éditeur de texte
   - [Visual Studio Code](https://code.visualstudio.com/) - Avec l'extension C#
   - [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/)
@@ -29,5 +29,5 @@ Pour accéder à la page wiki de notre projet [wiki](https://github.com/jeremie-
 Pour accéder à la page des répartition des tâches à travers les membres de l'équipe [Projects](https://github.com/users/jeremie-tremblay03/projects/1)
 ## Contact
 Développeurs du projet : [jeremie.tremblay3@gmail.com](), [mbolduc08@hotmail.com]()
-Lien du projet : [https://github.com/jeremie-tremblay03/projet_integration_2](https://github.com/jeremie-tremblay03/projet_integration_2)
+Lien du repos : [https://github.com/jeremie-tremblay03/projet_integration_2](https://github.com/jeremie-tremblay03/projet_integration_2)
 
