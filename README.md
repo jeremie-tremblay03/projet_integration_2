@@ -10,6 +10,7 @@ Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire not
 - ...
 ## Commencer
 ### Prérequis
+Pour utiliser notre projet, vous devrez installer [Unity](https://unity.com/)
 Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet complet]()
 ## Utilisation
@@ -22,3 +23,4 @@ Pour accéder à la page des répartition des tâches à travers les membres de 
 ## Contact
 Développeurs du projet : [jeremie.tremblay3@gmail.com](), [marc.bolduc@gmail.com]()
 Lien du projet : [https://github.com/jeremie-tremblay03/projet_integration_2](https://github.com/jeremie-tremblay03/projet_integration_2)
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
