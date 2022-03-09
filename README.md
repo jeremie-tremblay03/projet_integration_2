@@ -28,11 +28,11 @@ Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [
 Utilisez cet espace pour montrer des exemples utiles d'utilisation d'un projet. Des captures d'écran supplémentaires, des exemples de code et des démos fonctionnent bien dans cet espace. Vous pouvez également créer un lien vers d'autres ressources.  
 
 Pour plus d'informations, veuillez vous référer à la [documentation](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
-## Wiki
+### Wiki
 Pour accéder à la page wiki de notre projet [wiki](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
-## Projects
+### Projects
 Pour accéder à la page des répartition des tâches à travers les membres de l'équipe [Projects](https://github.com/users/jeremie-tremblay03/projects/1)
-## Contact
+### Contact
 Développeurs du projet : [jeremie.tremblay3@gmail.com](), [mbolduc08@hotmail.com]()  
 
 Lien du repos : [https://github.com/jeremie-tremblay03/projet_integration_2](https://github.com/jeremie-tremblay03/projet_integration_2)
