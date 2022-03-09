@@ -1,6 +1,6 @@
 # PROJET INTÉGRATION II
 ### À propos de ce projet
-Le projet intégration 2 fait par Jérémie Tremblay et Marc Bolduc consiste en la création d'un jeu FPS (jeu de tir à la première personne), horreur et casse-tête. Le jeu se déroule dans un réseau d'égout.
+Le projet intégration 2 fait par Jérémie Tremblay et Marc Bolduc consiste en la création d'un jeu FPS (jeu de tir à la première personne), horreur et casse-tête. Le jeu se déroule dans un réseau d'égout occupé par des monstres voulant votre peau.
 ### Dévéloppé avec
 Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire notre projet.   
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
