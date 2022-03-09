@@ -2,7 +2,7 @@
 ### À propos de ce projet
 Le projet intégration 2 fait par Jérémie Tremblay et Marc Bolduc consiste en la création d'un jeu FPS (jeu de tir à la première personne), horreur et casse-tête. Le jeu se déroule dans un réseau d'égout.
 ### Utilisation
-Puisque les fichiers du jeu excède la capacité maximum permise de github.
+Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet]() 
 ## WIKI
 Pour accéder à la page wiki de notre projet [wiki](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
