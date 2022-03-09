@@ -2,7 +2,7 @@
 ### À propos de ce projet
 Le projet intégration 2 fait par Jérémie Tremblay et Marc Bolduc consiste en la création d'un jeu FPS (jeu de tir à la première personne), horreur et casse-tête. Le jeu se déroule dans un réseau d'égout.
 ### Dévéloppé avec
-Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire notre projet.  
+Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire notre projet.   
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Unity](https://unity.com/)
 - [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
@@ -21,6 +21,6 @@ Pour accéder à la page wiki de notre projet [wiki](https://github.com/jeremie-
 ## Projects
 Pour accéder à la page des répartition des tâches à travers les membres de l'équipe [Projects](https://github.com/users/jeremie-tremblay03/projects/1)
 ## Contact
-Développeurs du projet : [jeremie.tremblay3@gmail.com](), [marc.bolduc@gmail.com]()
+Développeurs du projet : [jeremie.tremblay3@gmail.com](), [mbolduc08@hotmail.com]()
 Lien du projet : [https://github.com/jeremie-tremblay03/projet_integration_2](https://github.com/jeremie-tremblay03/projet_integration_2)
 
