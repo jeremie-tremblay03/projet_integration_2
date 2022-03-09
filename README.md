@@ -10,7 +10,9 @@ Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire not
 - ...
 ## Commencer
 ### Prérequis
-Pour utiliser notre projet, vous devrez installer [Unity](https://unity.com/)
+Pour utiliser notre projet, vous devrez installer
+- [Unity](https://unity.com/)
+- [C#]()(devrait s'installer avec unity)
 Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet complet]()
 ## Utilisation
