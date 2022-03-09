@@ -16,7 +16,7 @@ Pour utiliser notre projet, vous devrez installer
 - Un éditeur de texte
   - [Visual Studio Code](https://code.visualstudio.com/) - Avec l'extension C#
   - [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/)
-  - [Notepad++](https://notepad-plus-plus.org/downloads/) - Moins recommandé
+  - [Notepad++](https://notepad-plus-plus.org/downloads/) - Moins recommandé  
 Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet complet]()
 ## Utilisation
