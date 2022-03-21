@@ -11,7 +11,7 @@ Principaux outils, langages, frameworks, bilbiothèques utilisés pour faire not
 - [Unity](https://unity.com/)
 - [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
 - [Github](https://github.com/)
-- ...
+
 ## Commencer
 ### Prérequis
 Pour utiliser notre projet, vous devrez installer
