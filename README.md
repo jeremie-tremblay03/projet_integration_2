@@ -29,9 +29,9 @@ Utilisez cet espace pour montrer des exemples utiles d'utilisation d'un projet. 
 
 Pour plus d'informations, veuillez vous référer à la [documentation](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
 ### Wiki
-Pour accéder à la page wiki de notre projet [wiki](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
+Pour accéder à la page [wiki](https://github.com/jeremie-tremblay03/projet_integration_2/wiki) de notre projet
 ### Projects
-Pour accéder à la page des répartition des tâches à travers les membres de l'équipe [Projects](https://github.com/users/jeremie-tremblay03/projects/1)
+Pour accéder à la page [Projects](https://github.com/users/jeremie-tremblay03/projects/1) des répartition des tâches à travers les membres de l'équipe
 ### Contact
 Développeurs du projet : [jeremie.tremblay3@gmail.com](), [mbolduc08@hotmail.com]()  
 
