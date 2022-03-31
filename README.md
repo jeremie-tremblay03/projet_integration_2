@@ -25,7 +25,6 @@ Pour utiliser notre projet, vous devrez installer
 Puisque les fichiers du jeu excède la capacité maximum permise de github.  
 Le lien suivant vous permettra de télécharger le projet sur votre ordinateur [Lien du projet complet](https://cegeptroisrivieres-my.sharepoint.com/:f:/g/personal/jeremie_tremblay_03_edu_cegeptr_qc_ca/Em18BgVJzs9KoS2PFwcXvnEBv4HXJBQjQMHwybzTDJ3upg?e=jghv74)
 ## Utilisation
-Utilisez cet espace pour montrer des exemples utiles d'utilisation d'un projet. Des captures d'écran supplémentaires, des exemples de code et des démos fonctionnent bien dans cet espace. Vous pouvez également créer un lien vers d'autres ressources.  
 
 Pour plus d'informations, veuillez vous référer à la [documentation](https://github.com/jeremie-tremblay03/projet_integration_2/wiki)
 ### Wiki
